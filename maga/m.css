@@ -77,3 +77,58 @@
     gap: 19.5px;
     margin-bottom: 100px;
 }
+
+
+
+.p4{
+    font-size: 16px;
+    font-weight: 400;
+    color: #353535;
+    margin-left: 50px;
+}
+
+.h2{
+    width: 566px;
+    font-size: 48px;
+    font-weight: 700;
+    color: #141414;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+}
+
+
+.dd{
+    width: 397px;
+    height: 64px;
+    border-radius: 5px;
+    background-color: #F5F9FB;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+
+.dd1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 100px;
+}
+
+.hh{
+    font-size: 20px;
+    font-weight: 700;
+    color: #141414;
+}
+
+.hh1{
+    margin-left: -15px;
+    color: #017CC1;
+}
+
+.box2{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
