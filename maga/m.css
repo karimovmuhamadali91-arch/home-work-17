@@ -262,8 +262,6 @@
 
 
 .h1o{
-    width: 566px;
-    height: 48px;
     font-size: 48px;
     font-weight: 700;
     color: #141414;
@@ -313,4 +311,34 @@
     display: flex;
     justify-content: space-evenly;
     margin-bottom: 150px;
+}
+
+
+
+.divxo2{
+    width: 306px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.name{
+    font-size: 22px;
+    font-weight: 700;
+    color: #017CC1;
+}
+
+
+.pim2{
+    font-size: 18px;
+    font-weight: 400;
+    color: #141414;
+}
+
+
+
+.box6{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 100px;
 }
