@@ -317,3 +317,49 @@ body {
     color: white;
     font-size: 20px;
 }
+
+.box8 {
+    padding: 2%;
+}
+
+.v1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 2%;
+}
+
+.v2 {
+    font-size: 30px;
+    line-height: 1.2;
+}
+
+.v3 {
+    display: flex;
+    gap: 10px;
+}
+
+
+
+.v5 {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.v6 {
+    display: flex;
+    gap: 2%;
+}
+
+.v7 {
+    flex: 1;
+}
+
+.v7 img {
+    width: 100%;
+    display: block;
+    border-radius: 5px;
+}
+
+
