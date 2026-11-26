@@ -429,3 +429,66 @@ body {
 .r6 span {
     color: rgb(0, 115, 190);
 }
+
+.box10 {
+    padding: 2%;
+}
+
+.t1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2%;
+}
+
+.t2 {
+    font-size: 30px;
+}
+
+.t3 {
+    display: flex;
+    gap: 10px;
+}
+
+.t5 {
+    display: flex;
+    gap: 2%;
+}
+
+.t6 {
+    flex: 1;
+    min-width: 0;
+    background-color: rgb(240, 246, 250);
+    border-radius: 5px;
+    overflow: hidden;
+    padding-bottom: 3%;
+}
+
+.t7 {
+    height: 220px;
+    background-color: rgb(125, 230, 230);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.t7 img {
+    height: 90%;
+}
+
+.t8 {
+    padding: 5% 6% 0;
+    line-height: 1.5;
+}
+
+.t8 p:nth-of-type(1) {
+    font-size: 11px;
+    color: rgb(0, 115, 190);
+}
+
+.t8 h3 {
+    font-size: 22px;
+    font-weight: 500;
+    color: rgb(0, 115, 190);
+    margin: 2% 0 4%;
+}
