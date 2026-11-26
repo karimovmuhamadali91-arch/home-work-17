@@ -598,3 +598,57 @@ body {
     max-height: 60%;
     object-fit: contain;
 }
+
+.box13 {
+    padding: 2% 4%;
+}
+
+.l1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2%;
+}
+
+.l2 {
+    font-size: 30px;
+}
+
+.l3 {
+    display: flex;
+    gap: 10px;
+}
+
+.l5 {
+    display: flex;
+    gap: 2%;
+}
+
+.l6 {
+    flex: 1;
+    min-width: 0;
+    line-height: 1.5;
+}
+
+.l7 {
+    padding: 5%;
+    border: 1px solid rgb(200, 230, 245);
+    border-radius: 5px;
+    margin-bottom: 4%;
+}
+
+.l7 img {
+    width: 100%;
+    display: block;
+}
+
+.l7 .l8 {
+    width: 17%;
+    margin: -22% 0 0 40%;
+    position: relative;
+}
+
+.l6 p {
+    font-size: 13px;
+    color: rgb(80, 80, 80);
+}
