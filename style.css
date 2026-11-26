@@ -241,12 +241,13 @@
 .hh {
     margin-left: 10%;
 }
+
 .img {
     margin-left: 50%;
     margin-top: -60%;
 }
-.box7 {
-}
+
+.box7 {}
 
 * {
     margin: 0;
@@ -316,4 +317,115 @@ body {
 .n7 {
     color: white;
     font-size: 20px;
+}
+
+.box8 {
+    padding: 2%;
+}
+
+.v1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 2%;
+}
+
+.v2 {
+    font-size: 30px;
+    line-height: 1.2;
+}
+
+.v3 {
+    display: flex;
+    gap: 10px;
+}
+
+
+
+.v5 {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.v6 {
+    display: flex;
+    gap: 2%;
+}
+
+.v7 {
+    flex: 1;
+}
+
+.v7 img {
+    width: 100%;
+    display: block;
+    border-radius: 5px;
+}
+
+.box9 {
+    padding: 2%;
+}
+
+.r1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 3%;
+}
+
+.r2 {
+    font-size: 30px;
+}
+
+.r3 {
+    display: flex;
+    gap: 10px;
+}
+
+.r5 {
+    display: flex;
+    gap: 4%;
+}
+
+.r6 {
+    flex: 1;
+    min-width: 0;
+    line-height: 1.5;
+}
+
+.r6 h4 {
+    font-size: 12px;
+}
+
+.r6 p:nth-of-type(1) {
+    font-size: 12px;
+    color: rgb(80, 80, 80);
+}
+
+.r7 {
+    display: block;
+    width: 80px;
+    margin: 3% 0;
+}
+
+.r6 p:nth-of-type(2) {
+    font-size: 15px;
+}
+
+.r8 {
+    width: 30%;
+    margin: 5% 0;
+    padding: 12px 0;
+    border: 1px solid rgb(0, 115, 190);
+    border-radius: 3px;
+    color: rgb(0, 115, 190);
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+}
+
+.r6 span {
+    color: rgb(0, 115, 190);
 }
