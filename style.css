@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+}
+.box1 {
+    padding: 10px;
+}
+.div1 {
+    display: flex;
+    justify-content: space-around;
+}
+.d1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+}
+.p1 {
+    padding: 10px 20px;
+    border: 1px solid rgb(190, 190, 190);
+    background-color: rgb(186, 206, 237);
+    border-radius: 5px;
+    color: blue;
+}
+.div2 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.dv2 {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.dv3 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.p2 {
+    padding: 10px 20px;
+    background-color: rgb(27, 27, 97);
+    color: white;
+    border-radius: 5px;
+}
