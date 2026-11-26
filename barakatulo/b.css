@@ -1,0 +1,278 @@
+.k1 {
+    width: 100%;
+    background-color: white;
+    padding: 10px 15px;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+.k2 {
+    width: 100%;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.k3 img {
+    width: 160px;
+    height: 55px;
+    object-fit: contain;
+}
+.k4 p,
+.k5 p,
+.k6 p,
+.k7 p {
+    font-size: 12px;
+    margin: 0 0 5px;
+    color: #07558a;
+}
+.k4 small,
+.k5 small,
+.k6 small,
+.k7 small {
+    font-size: 10px;
+    color: #555;
+}
+.k8 {
+    width: 38px;
+    height: 35px;
+    background-color: #00bdb8;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 23px;
+}
+.k9 {
+    height: 35px;
+    padding: 0 22px;
+    background-color: #e5f1f6;
+    color: #00558a;
+    border: none;
+    border-radius: 5px;
+}
+.k10 {
+    width: 100%;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.k11 {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+.k11 p {
+    font-size: 11px;
+    font-weight: bold;
+    color: #222;
+}
+.k12 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.k12 p {
+    font-size: 10px;
+}
+.k12 button {
+    background-color: #00598f;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 11px 20px;
+}
+.k13 {
+    width: 100%;
+    min-height: 390px;
+    background-color: #eff6fa;
+    padding: 20px 4.3%;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    overflow: hidden;
+}
+.k14 {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    font-size: 11px;
+    color: #555;
+}
+.k14 p {
+    text-decoration: underline;
+}
+.k14 small {
+    color: #888;
+}
+.k15 {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.k16 {
+    width: 50%;
+    padding-top: 35px;
+    position: relative;
+    z-index: 2;
+}
+.k16 p {
+    color: #00649b;
+    font-size: 15px;
+    font-weight: bold;
+}
+.k16 h1 {
+    font-size: 32px;
+    line-height: 1.05;
+    color: #171717;
+    margin-top: 18px;
+    margin-bottom: 10px;
+}
+.k16 h2 {
+    font-size: 42px;
+    margin-top: 10px;
+    margin-bottom: 32px;
+    color: #171717;
+}
+.k16 button {
+    width: 159px;
+    height: 43px;
+    background-color: #00bdb8;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 14px;
+}
+.k17 {
+    width: 55%;
+    height: 360px;
+    position: absolute;
+    right: 0;
+    bottom: -20px;
+}
+.k17 img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: center bottom;
+}
+.k19 {
+    width: 92%;
+    height: 170px;
+    margin: 20px auto;
+    background-color: #eff6fa;
+    border-radius: 5px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.k20 {
+    width: 23%;
+}
+
+.k20 img {
+    width: 38px;
+    height: 38px;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
+
+.k20 h2 {
+    color: #0073b9;
+    font-size: 17px;
+    margin: 0 0 7px;
+}
+
+.k20 p {
+    color: #222;
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+}
+.k22 {
+    width: 94%;
+    margin: 25px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 16px;
+    font-family: Arial, sans-serif;
+}
+.k23 {
+    width: 67%;
+}
+.k23 h1 {
+    font-size: 26px;
+    color: #111;
+    margin: 0 0 24px;
+}
+.k24 {
+    width: 100%;
+    height: 53px;
+    border-top: 1px solid #d5d5d5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+}
+.k24:last-child {
+    border-bottom: 1px solid #d5d5d5;
+}
+.k24 p {
+    font-size: 15px;
+    color: #111;
+    margin: 0;
+}
+.k24 span {
+    font-size: 22px;
+    font-weight: 300;
+    color: #555;
+}
+.k25 {
+    width: 100%;
+    border-top: 1px solid #d5d5d5;
+}
+.k25 .k24 {
+    border-top: none;
+}
+.k25 a {
+    display: block;
+    color: #0073b9;
+    font-size: 11px;
+    margin: 0 0 5px;
+}
+.k26 {
+    width: 100%;
+    height: 41px;
+    border-bottom: 1px solid #e5e5e5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.k26 span {
+    color: #8999a2;
+    font-size: 10px;
+    width: 60px;
+}
+.k26 p {
+    font-size: 10px;
+    color: #333;
+    flex: 1;
+    margin: 0;
+}
+.k26 strong {
+    color: #005c9b;
+    font-size: 11px;
+    font-weight: normal;
+}
+.k27 {
+    width: 32%;
+    margin-top: 34px;
+}
+.k27 img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+}
